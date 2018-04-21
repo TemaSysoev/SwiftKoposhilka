@@ -1,2 +1,3 @@
 # SwiftKoposhilka
-Useful code 
+Здесь лежат лакомые кусочки кода
+
